@@ -1,7 +1,7 @@
 # Your code here
 def meal_choice(veg1, veg2, protein ="meat")
   print "What a nutritious meal!"
-  p "A plate of #{protein} with #{veg1} and #{veg2}."
+  print "A plate of #{protein} with #{veg1} and #{veg2}."
 end
 
 meal_choice("broccoli", "macaroni", "tofu")
